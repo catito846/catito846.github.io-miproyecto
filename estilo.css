@@ -1,0 +1,41 @@
+*{
+   padding: 0;
+   margin: 0;
+   
+}
+body {
+    background-color: rgb(10, 22, 67);
+    color: white;
+}
+
+h1  {
+    text-align:  center;
+    background-color:  rgb(48, 8, 140);
+    color: black;
+    padding: 20px;
+}
+nav ul {
+    background-color: #141414;
+    width: 100%;
+    text-align: center;
+}
+nav li {
+    display: inline-flex;
+
+}
+nav a {
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+    width: 150px;
+}
+nav li:hover {
+    background-color: black;
+    
+}
+img {
+    width: 900px;
+    height: 900px;
+    border-right: #ea3939;
+    image-orientation: center
+}
